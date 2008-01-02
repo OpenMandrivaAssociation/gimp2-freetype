@@ -11,6 +11,7 @@ Release:	%{release}
 License:	GPL
 Group:		Graphics
 URL:		http://freetype.gimp.org/
+Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 Source:		%{pkgname}-%{version}.tar.bz2
 
