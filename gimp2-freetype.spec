@@ -15,7 +15,7 @@ Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 Source:		%{pkgname}-%{version}.tar.bz2
 
-BuildRequires:	gimp2-devel >= %{req_gimp_version}
+BuildRequires:	gimp-devel >= %{req_gimp_version}
 BuildRequires:	freetype2-devel
 #gw for the broken intltool scripts:
 BuildRequires: perl-XML-Parser
