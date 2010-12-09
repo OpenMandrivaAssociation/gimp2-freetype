@@ -1,5 +1,5 @@
 %define version 0.6
-%define release %mkrel 5
+%define release %mkrel 6
 %define req_gimp_version 2.0.0
 
 %define pkgname gimp-freetype
