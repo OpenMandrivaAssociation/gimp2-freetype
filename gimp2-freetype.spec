@@ -5,7 +5,7 @@
 Summary:	A GIMP font renderer based on the freetype library
 Name:		gimp2-freetype
 Version:	0.6
-Release:	7
+Release:	8
 License:	GPL
 Group:		Graphics
 URL:		http://freetype.gimp.org/
