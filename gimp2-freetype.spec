@@ -8,7 +8,7 @@ Version:	0.6
 Release:	8
 License:	GPL
 Group:		Graphics
-URL:		http://freetype.gimp.org/
+URL:		https://freetype.gimp.org/
 Buildroot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 Source:		%{pkgname}-%{version}.tar.bz2
